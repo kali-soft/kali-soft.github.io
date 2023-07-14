@@ -50,6 +50,11 @@ h4, h5, h6 {
 	margin: 0;
 }
 
+#logo > img{
+  width: auto;
+  height: 100%;
+}
+
 .clear:before,
 .clear:after {
     content: " ";
