@@ -50,11 +50,6 @@ h4, h5, h6 {
 	margin: 0;
 }
 
-#logo > img{
-  width: auto;
-  height: 100%;
-}
-
 .clear:before,
 .clear:after {
     content: " ";
@@ -163,6 +158,11 @@ body > section,
 
 .navbar-brand {
   padding: 0;
+}
+
+.navbar-brand #logo img{
+  width: auto;
+  height: 100px;
 }
 
 .navbar-nav li a {
