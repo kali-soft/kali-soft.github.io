@@ -162,7 +162,7 @@ body > section,
 
 .navbar-brand #logo img{
   width: auto;
-  height: 100px;
+  height: 100%;
 }
 
 .navbar-nav li a {
