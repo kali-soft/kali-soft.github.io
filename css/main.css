@@ -188,7 +188,7 @@ body > section,
 	padding: 0;
 }
 
-#slider .carousel-inner .item {
+#slider .carousel-slide .item {
   background-size: cover;
 }
 
