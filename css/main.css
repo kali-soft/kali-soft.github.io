@@ -186,7 +186,7 @@ body > section,
 	padding: 0;
 }
 
-#home .carousel-inner .item {
+#home .home-wrapper{
   background-size: cover;
 }
 
