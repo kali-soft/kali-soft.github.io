@@ -187,6 +187,7 @@ body > section,
   background-position: center center;
   background-size: cover;
 	padding: 0;
+  height:100vh;
 }
 
 .home-caption {
