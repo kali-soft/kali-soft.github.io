@@ -178,7 +178,58 @@ body > section,
 }
 
 
+/*=========================================
+	Home
+==========================================*/
 
+#home {
+	padding: 0;
+}
+
+#home .carousel-inner .item {
+  background-size: cover;
+}
+
+.home-caption {
+  top: 50%;
+}
+
+.home-caption h2 {
+  font-size: 62px;
+  font-weight: 300;
+}
+
+.home-caption h2 span {
+  font-weight: 800;
+}
+
+.home-caption h3 {
+  font-size: 48px;
+  font-weight: 300;
+  margin: 6px 0 20px;
+}
+
+.home-caption p {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.home-caption p:before,
+.home-caption p:after {
+color: #0feb9e;
+content: "___";
+position: relative;
+top: -8px;
+}
+
+.home-caption p:before {
+  right: 20px;
+}
+
+.home-caption p:after {
+  left: 20px;
+}
 
 /*=========================================
 	Slider
@@ -188,7 +239,7 @@ body > section,
 	padding: 0;
 }
 
-#slider .carousel-slide .item {
+#slider .carousel-inner .item {
   background-size: cover;
 }
 
