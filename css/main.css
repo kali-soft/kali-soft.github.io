@@ -204,18 +204,22 @@ body > section,
 
 .home-caption h2 span {
   font-weight: 800;
+  display: table;
+  margin: 0 auto;
 }
 
 .home-caption h3 {
   font-size: 48px;
   font-weight: 300;
   margin: 6px 0 20px;
+  text-align: center;
 }
 
 .home-caption p {
   color: #fff;
   font-size: 18px;
   font-weight: 300;
+  text-align: center;
 }
 
 .home-caption p:before,
