@@ -65,7 +65,8 @@ h4, h5, h6 {
 }
 
 span.color {
-	color: #0feb9e;
+	/* color: #0feb9e; */
+  color: #d3c970;
 }
 
 body > section,
@@ -77,6 +78,7 @@ body > section,
 
 .sec-title h2 {
   color: #0eb493;
+  color: #d3c970;
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
@@ -336,7 +338,8 @@ top: -8px;
 ==========================================*/
 
 .features {
-  background-color: #f4f7f9;
+  /* background-color: #f4f7f9; */
+  background-color: #004258;
 }
 
 .owl-controls {
@@ -391,6 +394,10 @@ top: -8px;
 /*=========================================
 	Our Works
 ==========================================*/
+
+.works{
+  background-color: #004258;
+}
 
 .work-filter {
   margin-bottom: 35px;
@@ -619,6 +626,7 @@ top: -8px;
 
 .contact {
 	padding-bottom: 0;
+  background-color: #004258;
 }
 
 .contact-address h3 {
