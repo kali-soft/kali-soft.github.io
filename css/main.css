@@ -383,7 +383,7 @@ top: -8px;
 }
 
 .service-desc h3 {
-  color: #062033;
+  color: #bdc9d1;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 25px;
@@ -420,7 +420,8 @@ top: -8px;
 
 .work-filter ul li a:hover,
 .work-filter ul li a.active {
-  background-color: #0eb493;
+  /* background-color: #0eb493; */
+  background-color: #d3c970;
   border-radius: 6px;
   color: #fff;
   padding: 5px 17px;
